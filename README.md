@@ -1,3 +1,5 @@
+# realtime-scalable-chat-app
+
 # Turborepo starter
 
 This is an official starter Turborepo.
